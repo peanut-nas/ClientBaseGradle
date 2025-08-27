@@ -43,6 +43,7 @@ jsoup = "1.21.2"
 # Github Stable Builds
 ndk = "28.2.13676358"
 api-target = "36"
+api-ndk-target = "35"
 api-min = "23"
 
 [libraries]
